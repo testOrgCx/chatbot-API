@@ -35,5 +35,5 @@ function MemosDAO(db) {
     };
 
 }
-
+/* Exporting the module */
 module.exports = { MemosDAO };
